@@ -123,7 +123,7 @@ Git (for version control)
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/Amazon-Sales-Reviews.git
+git clone https://github.com/shreyashpatil530/Amazon-Sales-Reviews.git
 cd Amazon-Sales-Reviews
 ```
 
